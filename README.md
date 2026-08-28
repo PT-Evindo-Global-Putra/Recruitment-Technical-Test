@@ -7,7 +7,7 @@ the engineering recruitment process at PT Evindo Global Putra.
 
 ### Backend Engineer
 
-[Backend Engineer Take-Home Technical Test](./backend-engineer/BACKEND-TECHNICAL-TEST.md)
+[Backend Engineer Take-Home Technical Test](./BACKEND-TECHNICAL-TEST.md)
 
 ---
 
